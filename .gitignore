@@ -1,0 +1,6 @@
+src/
+vendor/
+node_modules/
+app_salon.sql
+gulpfile.js
+.env
